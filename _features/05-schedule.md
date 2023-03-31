@@ -11,7 +11,7 @@ image:
 			<th>Week</th>
 			<th>Topic</th>
 			<th>Material</th>
-			<th>Assignments</th>
+			<th>Labs</th>
 		</tr>
 		<tr>
 			<td>Feb 21-28</td>
@@ -23,12 +23,14 @@ image:
 			</td>
 			<td>
 				Asynchronous Class:<br>
-				[Lv21] Chap 1 (<a href= "docs/slides/section1.pptx">slides</a>)(<a href= "docs/handouts/hts-section1.pdf">handouts</a>)<br>
+				[Lv21] Chap 1 (<a href= "docs/slides/lec1.pptx">slides1</a>)(<a href= "docs/handouts/lesson1.pdf">handouts</a>)<br>
 				<a href= "http://videolectures.net/bootcamp07_keller_bss/">Linear Algebra and Probability Review</a> (part 1 Linear Algebra, part 2 Probability)
 			</td>
 			<td>
 				<a href= "https://docs.python.org/3/">Python Documentation</a><br>
 				<a href= "https://docs.python.org/zh-cn/3/">Python Documentation(中文版)</a> <br>
+				<a href= "https://pytorch.org/docs/stable/index.html">Pytorch Documentation</a><br>
+				<a href= "https://pytorch-cn.readthedocs.io/zh/latest/#pytorch">Pytorch Documentation(中文版)</a>
 				Pytorch Setup Documentation(安装说明) (<a href= "docs/assigns/win10_Anaconda_pytorch_cpu_setup.docx"> CPU version</a>)(<a href= "docs/assigns/win10_Anaconda_pytorch_gpu_setup.docx"> GPU version</a>)
 			</td>
 		</tr>
@@ -42,11 +44,10 @@ image:
 			</td>
 			<td>
 				Asynchronous Class:<br>
-				[Lv21] Chap 3 (<a href= "docs/slides/section2.pptx">slides</a>) (<a href= "docs/handouts/hts-section2.pdf">updated handouts</a>)
+				[Lv21] Chap 3 (<a href= "docs/slides/lec2.pptx">slides</a>) (<a href= "docs/handouts/lesson2.pdf">updated handouts</a>)
 			</td>
 			<td>
-				<a href= "https://pytorch.org/docs/stable/index.html">Pytorch Documentation</a><br>
-				<a href= "https://pytorch-cn.readthedocs.io/zh/latest/#pytorch">Pytorch Documentation(中文版)</a>
+				<a href= "docs/lab/lab1.zip">Lab1-Tensor(实验1)</a><br>
 			</td>
 		</tr>
 		<tr>
@@ -55,12 +56,11 @@ image:
 			3.2 Linear models for classification</td>
 			<td>
 				Asynchronous Class:<br> 
-				[Lv21] Chap 5 (<a href= "docs/slides/section3.pptx">slides</a>)<br>
-				Chap 5(<a href= "docs/handouts/hts-section3.pdf">handouts</a>)
+				[Lv21] Chap 5 (<a href= "docs/slides/lec3.pptx">slides</a>)<br>
+				Chap 5(<a href= "docs/handouts/lesson3.pdf">handouts</a>)
 			</td>
 			<td>
-				<a href= "https://d2l.ai/chapter_linear-networks/linear-regression-scratch.html">Linear regression implementation from scratch</a><br>
-				<a href= "https://d2l.ai/chapter_linear-networks/softmax-regression-scratch.html">Implementation of Softmax Regression from Scratch</a>
+				<a href= "docs/lab/lab2.zip">Lab2-Linear-Model(实验2)</a><br>
 			</td>
 		</tr>
 		<tr>
@@ -73,11 +73,11 @@ image:
 			4.4 A simple example</td>
 			<td>
 				Asynchronous class:<br> 
-				[Lv21] Chap 6 (<a href= "docs/slides/section4.pptx">slides</a>)<br>
-				[Bis06] Chap 6 (<a href= "docs/handouts/hts-section4.pdf">handouts</a>)
+				[Lv21] Chap 6 (<a href= "docs/slides/">slides</a>)<br>
+				[Bis06] Chap 6 (<a href= "docs/handouts/">handouts</a>)
 			</td>
 			<td>
-				<a href= "https://d2l.ai/chapter_multilayer-perceptrons/mlp-scratch.html">Implementation of Multilayer Perceptrons from Scratch</a>
+				<a href= "">Implementation of Multilayer Perceptrons from Scratch</a>
 			</td>
 		</tr>
 		<tr>
@@ -90,11 +90,8 @@ image:
 			5.6 An example for classification</td>
 			<td>
 				Asynchronous class:<br> 
-				[Lv21] Chap 7 (<a href= "docs/slides/section5.pptx">slides</a>)<br>
-				[Gonz18] Chap 7 (<a href= "docs/handouts/hts-section5.pdf">handouts</a>)<br>
-				[Fag21] Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
-				<a href= "https://cs.stanford.edu/people/karpathy/convnetjs/">ConvNetJS demos</a><br>
-				<a href= "https://distill.pub/2017/feature-visualization/">Feature visualization</a>
+				[Lv21] Chap 7 (<a href= "docs/slides/">slides</a>)<br>
+				[Gonz18] Chap 7 (<a href= "docs/handouts/">handouts</a>)<br>
 			</td>
 			<td>
 				<!-- <a href= "problems3.pdf">Practice problems 3</a> -->
