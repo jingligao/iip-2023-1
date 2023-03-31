@@ -10,21 +10,15 @@ image:
 
 1.1 Computer vision
 
-1.2 Deep learning
-
-1.3 Natural language processing
+1.2 Natural language processing
 
 2 **Learning Foundations**
 
-2.1 Model evaluation
+2.1 Machine learning in aily life
 
-2.2 Model parameter selection
+2.2 Key components of machine learning
 
-2.3 Supervised learning
-
-2.4 Unsupervised learning
-
-2.5 Gradient descent optimization
+2.3 Various machine learning issues
 
 3 **Linear Models**
 
