@@ -77,7 +77,7 @@ image:
 				[Bis06] Chap 6 (<a href= "docs/handouts/">handouts</a>)
 			</td>
 			<td>
-				<a href= "">Implementation of Multilayer Perceptrons from Scratch</a>
+				<a href= "docs/lab/lab3.zip">Lab3-Multilayer-Perceptrons-Model(实验3)</a><br>
 			</td>
 		</tr>
 		<tr>
@@ -94,7 +94,7 @@ image:
 				[Gonz18] Chap 7 (<a href= "docs/handouts/">handouts</a>)<br>
 			</td>
 			<td>
-				<!-- <a href= "problems3.pdf">Practice problems 3</a> -->
+				<a href= "docs/lab/lab4.zip">Lab4-Convolutional-Neural-Networks-Model(实验4)</a><br>
 			</td>
 		</tr>
 		<tr>
@@ -110,7 +110,7 @@ image:
 				Chap 8 (<a href= "docs/handouts/">handouts</a>)
 			</td>
 			<td>
-				<!-- <a href= "problems4.pdf">Practice problems 4</a> -->
+				<a href= "docs/lab/lab5.zip">Lab5-Recurrent-Neural-Networks-Model(实验5)</a><br>
 			</td>
 		</tr>
 		<tr>
